@@ -1,0 +1,35 @@
+body
+{
+	Font-family: "Trebuchet Ms";
+	text-align:: justify;
+	background: black;
+	Font-size: 25px
+} 
+
+h1
+{
+	color: yellow;
+	text-align: center;
+}
+
+p
+{
+	color:grey ;
+	Font-size:20px
+}
+
+h3
+{
+	color: Brown;
+}
+
+li
+{
+	color: yellow;
+	Font-size: 25px
+} 
+
+<a 
+{ 
+    color: black; 
+}  
